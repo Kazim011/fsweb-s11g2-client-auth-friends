@@ -75,3 +75,6 @@ Tüm karakter nesneleri aşağıdaki biçimdedir:
 - [ ] axiosWithAuth kullanarak korumalı uç noktalara erişmeyi deneyin.
 - [ ] Karakterlerin bilgilerini göstermeye yarayan bir route oluşturun. Karakter id sini `useParams` kullanarak alın.
 - [ ] Uygulamayı stilleyin.
+
+https://react-hook-form.com/form-builder
+https://stackabuse.com/convert-string-to-boolean-in-javascript/
